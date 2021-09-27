@@ -16,7 +16,7 @@ fortean phenomena writing articles and publishing digital books on my site https
 
 
 ##### NOW
-✨ Full-Stack Developer
+✨ Full-Stack Developer working from home
 
 ##### BIO
 - 👋 Hi, I’m **@gcamarenaprog**
