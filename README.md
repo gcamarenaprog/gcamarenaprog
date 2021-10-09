@@ -1,4 +1,4 @@
-<h3 align="center">👋 Hi there! I'm Guillermo Camarena</h3>
+<h3 align="center">👋 Hi there! I'm Guillermo Hernández Camarena</h3>
 <p align="center">
   <a href="https://guillermocamarena.com">Website</a> •
   <a href="https://twitter.com/GCamarenaProg">Twitter</a>
