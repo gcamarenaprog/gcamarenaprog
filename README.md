@@ -22,7 +22,7 @@ fortean phenomena writing articles and publishing digital books on my site https
 - 👋 Hi, I’m **@gcamarenaprog**
 - 🏢 I'm currently working at **GoNet.us**
 - 👀 I’m interested in **development, computer networks and fortean phenomena**
-- ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.vb`, `.c`
+- ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.vb`, `.c`, `.vue`, `.ts`
 - 🌱 I’m currently learning **New Web Technologies**
 - 💬 Ask me about **Fortean Phenomena**
 - 📫 Reach me: [twitter.com/GCamarenaProg](https://twitter.com/GCamarenaProg)
