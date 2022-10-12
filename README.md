@@ -11,7 +11,7 @@
 <p align="center">By night Developer; By day Book Collector and Blogger of fortean phenomena.</p>
 
 <p align="center">I love sharing my knowledge with others, and I do that through content creation on foros and social media. When I'm not coding, you can find me a fan of 
-fortean phenomena writing articles and publishing digital books on my site https://bibliotecaenigmas.com
+fortean phenomena writing articles, podcasts programs and publishing digital books on my site https://bibliotecaenigmas.com
 </p>
 
 
