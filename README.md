@@ -16,7 +16,7 @@ fortean phenomena writing articles, podcasts programs and publishing digital boo
 
 
 ##### NOW
-✨ Full-Stack Developer working on GoNet.us
+✨ Full-Stack Developer
 
 ##### BIO
 - 👋 Hi, I’m **@gcamarenaprog**
