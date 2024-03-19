@@ -5,12 +5,12 @@
 
 ---
 
-<p align="center"><b> I'm a front-end developer and Network Engineer 👾.</b></p>
+<p align="center"><b> I'm a front-end developer and network engineer 👾.</b></p>
 
 <p align="center">By night developer, master of networks and telecommunications, and researcher of fortean phenomena.</p>
 
-<p align="center">I love sharing my knowledge with others, and I do that through content creation on foros and social media. When I'm not coding, you can find me a fan of 
-fortean phenomena writing articles, podcasts programs and publishing digital books on my site bibliotecaenigmas.com
+<p align="center">I love sharing my knowledge with others, and I do that through content creation on foros and social media. You can visit my personal page at [gcamarenaprog.com] (https://gcamarenaprog.com) When I'm not coding, you can find me a fan of 
+fortean phenomena writing articles, podcasts programs and publishing digital books on my site [bibliotecaenigmas.com](https://bibliotecaenimgas.com)
 </p>
 
 
@@ -20,7 +20,8 @@ fortean phenomena writing articles, podcasts programs and publishing digital boo
 ##### BIO
 - 👋 Hi, I’m **@gcamarenaprog**
 - 🏢 I'm currently working at **freelance**
-- 👀 I’m interested in **development, computer networks and fortean phenomena**
+- 👀 I’m interested in **development, computer networks and tech**
+- 🤘🏼 Other interests **fortean phenomena**
 - ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.vb`, `.c`, `.vue`, `.ts`
 - 🌱 I’m currently learning **new web technologies**
 - 💬 Ask me about **fortean phenomena**
