@@ -10,7 +10,7 @@
 <p align="center">By night developer, master of networks and telecommunications, and researcher of fortean phenomena.</p>
 
 <p align="center">I love sharing my knowledge with others, and I do that through content creation on foros and social media. You can visit my personal page at [gcamarenaprog.com] (https://gcamarenaprog.com) When I'm not coding, you can find me a fan of 
-fortean phenomena writing articles, podcasts programs and publishing digital books on my site [bibliotecaenigmas.com](https://bibliotecaenimgas.com)
+fortean phenomena writing articles, podcasts programs and publishing digital books on my site [bibliotecaenigmas.com](https://bibliotecaenimgas.com) [twitter.com/GCamarenaProg](https://twitter.com/GCamarenaProg)
 </p>
 
 
