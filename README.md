@@ -15,7 +15,7 @@ fortean phenomena writing articles, podcasts programs and publishing digital boo
 
 
 ##### NOW
-✨ Full-Stack Developer
+✨ Front end developer
 
 ##### BIO
 - 👋 Hi, I’m **@gcamarenaprog**
