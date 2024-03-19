@@ -5,12 +5,12 @@
 
 ---
 
-<p align="center"><b> I'm a Full-Stack Developer and Network Engineer working in Veracruz, México.</b></p>
+<p align="center"><b> I'm a front-end developer and Network Engineer 👾.</b></p>
 
-<p align="center">By night Developer; By day Book Collector and Blogger of fortean phenomena.</p>
+<p align="center">By night developer, master of networks and telecommunications, and researcher of fortean phenomena.</p>
 
 <p align="center">I love sharing my knowledge with others, and I do that through content creation on foros and social media. When I'm not coding, you can find me a fan of 
-fortean phenomena writing articles, podcasts programs and publishing digital books on my site https://bibliotecaenigmas.com
+fortean phenomena writing articles, podcasts programs and publishing digital books on my site bibliotecaenigmas.com
 </p>
 
 
@@ -22,13 +22,13 @@ fortean phenomena writing articles, podcasts programs and publishing digital boo
 - 🏢 I'm currently working at **freelance**
 - 👀 I’m interested in **development, computer networks and fortean phenomena**
 - ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.vb`, `.c`, `.vue`, `.ts`
-- 🌱 I’m currently learning **New Web Technologies**
-- 💬 Ask me about **Fortean Phenomena**
+- 🌱 I’m currently learning **new web technologies**
+- 💬 Ask me about **fortean phenomena**
 - 📫 Reach me: [twitter.com/GCamarenaProg](https://twitter.com/GCamarenaProg)
 - ⚡️ Fun fact: I'm a huge fan of **sci-fiction series**
 - 😀 My phrase created when I was **happy ...**
 
- > "Vivimos una grandiosa novela, en un gran teatro, montado por gente inteligente que le gusta jugar a las marionetas”.
+ > "We live a great novel, in a great theater, put on by intelligent people who like to play puppets."
 
 <!---
 gcamarenaprog/gcamarenaprog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
