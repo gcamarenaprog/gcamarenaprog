@@ -1,29 +1,29 @@
 <h3 align="center">👋 Hi there! I'm Guillermo Camarena</h3>
 <p align="center">
-  <a href="https://twitter.com/GCamarenaProg">Twitter</a>
+  Frontend Developer Middle | PHP | C# | Vue.js | TypeScript | JavaScript
 </p>
 
 ---
 
 <p align="center"><b> I'm a front-end developer and network engineer 👾.</b></p>
 
-<p align="center">Developer by night, teacher of networks and telecommunications, and researcher of Fortean phenomena by day.</p>
+<p align="center">Master in Networks and Telecommunications, Computer Systems Engineer and Developer by day and Fortean Phenomena Researcher by night.</p>
 
 <p align="center">I love sharing my knowledge with others, and I do that through content creation on foros and social media. You can visit my personal page at https://gcamarenaprog.com When I'm not coding, you can find me a fan of 
-fortean phenomena writing articles, podcasts programs and publishing digital books on my site https://bibliotecaenimgas.com
+fortean phenomena writing articles and publishing digital books on my fortean page https://bibliotecaenigmas.com
 </p>
 
 
 ##### NOW
-✨ Front end developer
+✨ I'm more front-end than back-end!
 
 ##### BIO
 - 👋 Hi, I’m **@gcamarenaprog**
 - 🏢 I'm currently working at **freelance**
 - 👀 I’m interested in **development, computer networks and tech**
-- 🤘🏼 Other interests **fortean phenomena**
 - ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.vb`, `.c`, `.vue`, `.ts`
 - 🌱 I’m currently learning **new web technologies**
+- 🤘🏼 Other interests **fortean phenomena**
 - 💬 Ask me about **fortean phenomena**
 - 📫 Reach me: [twitter.com/GCamarenaProg](https://twitter.com/GCamarenaProg)
 - ⚡️ Fun fact: I'm a huge fan of **sci-fiction series**
