@@ -32,7 +32,7 @@
 - ⚡️ Fun fact: I'm a huge fan of **sci-fiction series and movies**
 - 🎶 I love the rock music and my favorite band is **ZOÉ**
 - 😀 A phrase to describe me? **Will, light, and strength**🙏🏻⚡👊🏻
-- ![facebook](https://www.readmecodegen.com/api/social-icon?name=facebook&size=96) Reach me: [[twitter.com/GCamarenaProg](https://twitter.com/GCamarenaProg](https://www.facebook.com/guillermocamarenaprog/
+-![facebook](https://www.readmecodegen.com/api/social-icon?name=facebook&size=16) Reach me: [[twitter.com/GCamarenaProg](https://twitter.com/GCamarenaProg](https://www.facebook.com/guillermocamarenaprog/
 ))
 - 📫 Reach me: [twitter.com/GCamarenaProg](https://twitter.com/GCamarenaProg)
 - 📫 Reach me: [twitter.com/GCamarenaProg](https://twitter.com/GCamarenaProg)
