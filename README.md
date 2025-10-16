@@ -1,6 +1,6 @@
 <h3 align="center">👋 Hi there! I'm Guillermo Camarena 👾</h3>
 <p align="center">
-  Frontend Developer Middle | PHP | C# | Vue.js | TypeScript | JavaScript | Flutter
+  Frontend Developer Middle | PHP | C# | Vue.js | TypeScript | JavaScript | Flutter | SASS
 </p>
 
 ---
