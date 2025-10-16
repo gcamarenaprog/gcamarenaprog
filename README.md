@@ -1,13 +1,13 @@
-<h3 align="center">👋 Hi there! I'm Guillermo Camarena</h3>
+<h3 align="center">👋 Hi there! I'm Guillermo Camarena 👾</h3>
 <p align="center">
   Frontend Developer Middle | PHP | C# | Vue.js | TypeScript | JavaScript
 </p>
 
 ---
 
-<p align="center"><b> I'm a front-end developer and network engineer 👾.</b></p>
+<p align="center"><b> I'm a Master in Networks and Telecommunications, a Computer Systems Engineer, and a Frontend Developer and Researcher of Fortean Phenomena by night. 🧑🏻‍💻👾👽🛸</b></p>
 
-<p align="center">Master in Networks and Telecommunications, Computer Systems Engineer and Developer by day and Fortean Phenomena Researcher by night.</p>
+<p align="center">Master in Networks and Telecommunications, Computer Systems Engineer and Developer by day and Fortean Phenomena Researcher by night. </p>
 
 <p align="center">I love sharing my knowledge with others, and I do that through content creation on foros and social media. You can visit my personal page at https://gcamarenaprog.com When I'm not coding, you can find me a fan of 
 fortean phenomena writing articles and publishing digital books on my fortean page https://bibliotecaenigmas.com
