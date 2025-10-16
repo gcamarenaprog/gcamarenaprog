@@ -27,11 +27,11 @@
 - 👀 I’m interested in **development, computer networks, tech and fortean phenomena**
 - ⚙️ I use daily: **`.php`, `.js`, `.ts`,`.html`, `.css`, `.svg`, `.psd`, `.vb`, `.cs`, `.vue`, `.sql`**
 - 🧑🏻‍💻 Collaborative work: **GitHub, Figma, Jira, Webex, Notion, and similar tools**
-- 🌱 I’m currently learning **new web technologies**
-- 🛸 Other interests **fortean phenomena**
-- 💬 Ask me about **development, computer networks, tech and fortean phenomena**
+- 🌱 I’m currently learning: **new web technologies**
+- 🛸 Other interests: **fortean phenomena, book layout and collect fortean information such as books, films, series and documentals**
+- 💬 Ask me about: **development, computer networks, tech and fortean phenomena**
 - ⚡️ Fun fact: I'm a huge fan of **sci-fiction series and movies**
-- 🎶 Music fact: I love the **alternative rock music** and my favorite band is **ZOÉ**
+- 🎶 Music fact: **I love the alternative rock music and my favorite band is ZOÉ**
 - ♍ Zodiac sign fact: **My zodiac sign is Virgo**
 - 😀 A phrase to describe me? **Will, light, and strength**🙏🏻⚡👊🏻
 - 👾 You can visit my personal site **[gcamarenaprog.com](https://gcamarenaprog.com)**
