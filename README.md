@@ -1,18 +1,22 @@
 <h3 align="center">👋 Hi there! I'm Guillermo Camarena 👾</h3>
 <p align="center">
-  Frontend Developer Middle | PHP | C# | Vue.js | TypeScript | JavaScript
+  Frontend Developer Middle | PHP | C# | Vue.js | TypeScript | JavaScript | Flutter
 </p>
 
 ---
 
-<p align="center"><b> I'm a Master in Networks and Telecommunications, a Computer Systems Engineer, and a Frontend Developer and Researcher of Fortean Phenomena by night. 🧑🏻‍💻👾👽🛸</b></p>
+<p align="center">By day, I hold a Master's degree in Networks and Telecommunications, and by night, I'm a Computer Systems Engineer, Frontend Developer, and Fortean Phenomena Researcher. 🧑🏻‍💻👾👽🛸</p>
 
-<p align="center">Master in Networks and Telecommunications, Computer Systems Engineer and Developer by day and Fortean Phenomena Researcher by night. </p>
+<p align="center">I have knowledge of networking and web programming, specializing in Vue.js, PHP, C#, TypeScript, JavaScript, SASS, MySQL, and a bit of mobile programming with Flutter. I develop functional and user-friendly web applications, applying best practices and clean code for the end user, with the help of interface design using other tools like Figma. I have a solid understanding of WordPress and backend and mobile development skills. I work with other tools like GitHub, Figma, Jira, Webex, Notion, and similar tools for collaborative work. 🧑🏻‍💻👾</p>
 
-<p align="center">I love sharing my knowledge with others, and I do that through content creation on foros and social media. You can visit my personal page at https://gcamarenaprog.com When I'm not coding, you can find me a fan of 
-fortean phenomena writing articles and publishing digital books on my fortean page https://bibliotecaenigmas.com
-</p>
+<p align="center">I'm passionate about web development and technology. I'm self-taught and share my knowledge of my field and my Fortean research with others through my website, forums, and social media. 😎</p>
 
+<p align="center">When I'm not coding, I'm a Fortean researcher and write articles about my research on my website bibliotecaenigmas.com 👽🛸</p>
+
+<p align="center">By the way, if you want to know more about me, you can visit my personal website: https://gcamarenaprog.com 🧑🏻‍💻👾</p>
+
+<p align="center">A phrase to describe me?</p>
+<p align="center">Willpower, light, and strength 🙏🏻⚡👊🏻</p>
 
 ##### NOW
 ✨ I'm more front-end than back-end!
