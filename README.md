@@ -7,7 +7,7 @@
 
 <p align="center">By day, I hold a Master's degree in Networks and Telecommunications, and by night, I'm a Computer Systems Engineer, Frontend Developer, and Fortean Phenomena Researcher. 🧑🏻‍💻👾👽🛸</p>
 
-<p align="center">I have knowledge of networking and web programming, specializing in Vue.js, PHP, C#, TypeScript, JavaScript, SASS, MySQL, and a bit of mobile programming with Flutter. I develop functional and user-friendly web applications, applying best practices and clean code for the end user, with the help of interface design using other tools like Figma. I have a solid understanding of WordPress and backend and mobile development skills. I work with other tools like  for collaborative work. 🧑🏻‍💻👾</p>
+<p align="center">I have knowledge of networking and web programming, specializing in Vue.js, PHP, C#, TypeScript, JavaScript, SASS, MySQL, and a bit of mobile programming with Flutter. I develop functional and user-friendly web applications, applying best practices and clean code for the end user, with the help of interface design using other tools like Figma. I have a solid understanding of WordPress and backend and mobile development skills. I work with other tools like GitHub, Figma, Jira, Webex, Notion, and similar tools for collaborative work. 🧑🏻‍💻👾</p>
 
 <p align="center">I'm passionate about web development and technology. I'm self-taught and share my knowledge of my field and my Fortean research with others through my website, forums, and social media. 😎</p>
 
