@@ -23,7 +23,7 @@
 
 ##### BIO
 - 👋 Hi, I’m **@gcamarenaprog**
-- 🏢 I'm currently working at **freelance**
+- 🏢 I currently work as a **freelance**
 - 👀 I’m interested in **development, computer networks, tech and fortean phenomena**
 - ⚙️ I use daily: **`.php`, `.js`, `.ts`,`.html`, `.css`, `.svg`, `.psd`, `.vb`, `.cs`, `.vue`, `.sql`**
 - 🧑🏻‍💻 Collaborative work: **GitHub, Figma, Jira, Webex, Notion, and similar tools**
@@ -34,8 +34,8 @@
 - 🎶 Music fact: **I love the alternative rock music and my favorite band is ZOÉ**
 - ♍ Zodiac sign fact: **My zodiac sign is Virgo**
 - 😀 A phrase to describe me? **Will, light, and strength**🙏🏻⚡👊🏻
-- 👾 You can visit my personal site **[gcamarenaprog.com](https://gcamarenaprog.com)**
-- 👽 You can visit my fortean site **[bibliotecaenigmas.com](https://bibliotecaenigmas.com)** 
+- 👾 You can visit my personal site: **[gcamarenaprog.com](https://gcamarenaprog.com)**
+- 👽 You can visit my fortean site: **[bibliotecaenigmas.com](https://bibliotecaenigmas.com)** 
 - ![linkedin](https://www.readmecodegen.com/api/social-icon?name=linkedin&size=16) Reach me: [linkedin.com]([https://twitter.com/GCamarenaProg](https://www.linkedin.com/in/guillermo-camarena-57a25b134)
 - ![facebook](https://www.readmecodegen.com/api/social-icon?name=facebook&size=16) Reach me: [facebook.com/guillermocamarenaprog](https://www.facebook.com/guillermocamarenaprog/)
 - ![instagram](https://www.readmecodegen.com/api/social-icon?name=instagram&size=16) Reach me: [instagram.com/gcamarenaprog](https://www.instagram.com/gcamarenaprog)
