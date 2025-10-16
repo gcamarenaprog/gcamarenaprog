@@ -32,12 +32,13 @@
 - ⚡️ Fun fact: I'm a huge fan of **sci-fiction series and movies**
 - 🎶 I love the rock music and my favorite band is **ZOÉ**
 - 😀 A phrase to describe me? **Will, light, and strength**🙏🏻⚡👊🏻
--![facebook](https://www.readmecodegen.com/api/social-icon?name=facebook&size=16) Reach me: [[twitter.com/GCamarenaProg](https://twitter.com/GCamarenaProg](https://www.facebook.com/guillermocamarenaprog/
-))
-- 📫 Reach me: [twitter.com/GCamarenaProg](https://twitter.com/GCamarenaProg)
-- 📫 Reach me: [twitter.com/GCamarenaProg](https://twitter.com/GCamarenaProg)
-- 📫 Reach me: [twitter.com/GCamarenaProg](https://twitter.com/GCamarenaProg)
-- 📫 Reach me: [twitter.com/GCamarenaProg](https://twitter.com/GCamarenaProg)
+- ![linkedin](https://www.readmecodegen.com/api/social-icon?name=linkedin&size=16) Reach me: [linkedin.com]([https://twitter.com/GCamarenaProg](https://www.linkedin.com/in/guillermo-camarena-57a25b134))
+- ![facebook](https://www.readmecodegen.com/api/social-icon?name=facebook&size=16) Reach me: [facebook.com/guillermocamarenaprog](https://www.facebook.com/guillermocamarenaprog/)
+- ![instagram](https://www.readmecodegen.com/api/social-icon?name=instagram&size=16) Reach me: [instagram.com/gcamarenaprog](https://www.instagram.com/gcamarenaprog)
+- ![youtube](https://www.readmecodegen.com/api/social-icon?name=youtube&size=16) Reach me: [youtube.com/@gcamarenaprog](https://www.youtube.com/@gcamarenaprog)
+- ![x](https://www.readmecodegen.com/api/social-icon?name=x&size=16) Reach me: [x.com/GCamarenaProg](https://x.com/GCamarenaProg)
+- ![threads](https://www.readmecodegen.com/api/social-icon?name=threads&size=16) Reach me: [threads.com/@gcamarenaprog](https://www.threads.com/@gcamarenaprog)
+- ![whatsapp](https://www.readmecodegen.com/api/social-icon?name=whatsapp&size=16) Contact me: [2281-00-9101](https://wa.me/2281009101)
 
  > "We live a great novel, in a great theater, put on by intelligent people who like to play puppets."
 
