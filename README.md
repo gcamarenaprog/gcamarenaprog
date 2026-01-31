@@ -35,15 +35,10 @@
 - ♍ Zodiac sign fact: **My zodiac sign is Virgo**
 - 😀 A phrase to describe me? **Will, light, and strength**🙏🏻⚡👊🏻
 - 👾 You can visit my personal site: **[gcamarenaprog.com](https://gcamarenaprog.com)**
-- 👽 You can visit my fortean site: **[bibliotecaenigmas.com](https://bibliotecaenigmas.com)** 
-- ![linkedin](https://www.readmecodegen.com/api/social-icon?name=linkedin&size=16) Reach me: [linkedin.com]([https://twitter.com/GCamarenaProg](https://www.linkedin.com/in/guillermo-camarena-57a25b134)
-- ![facebook](https://www.readmecodegen.com/api/social-icon?name=facebook&size=16) Reach me: [facebook.com/guillermocamarenaprog](https://www.facebook.com/guillermocamarenaprog/)
-- ![instagram](https://www.readmecodegen.com/api/social-icon?name=instagram&size=16) Reach me: [instagram.com/gcamarenaprog](https://www.instagram.com/gcamarenaprog)
-- ![youtube](https://www.readmecodegen.com/api/social-icon?name=youtube&size=16) Reach me: [youtube.com/@gcamarenaprog](https://www.youtube.com/@gcamarenaprog)
-- ![x](https://www.readmecodegen.com/api/social-icon?name=x&size=16) Reach me: [x.com/GCamarenaProg](https://x.com/GCamarenaProg)
-- ![threads](https://www.readmecodegen.com/api/social-icon?name=threads&size=16) Reach me: [threads.com/@gcamarenaprog](https://www.threads.com/@gcamarenaprog)
-- ![whatsapp](https://www.readmecodegen.com/api/social-icon?name=whatsapp&size=16) Contact me: [+52 2281-00-9101](https://wa.me/+522281009101)
-- ![telegram](https://www.readmecodegen.com/api/social-icon?name=telegram&size=16) Contact me: [+52 2281-00-9101](https://wa.me/+522281009101)
+- 👽 You can visit my fortean site: **[bibliotecaenigmas.com](https://bibliotecaenigmas.com)**
+- 📧 Contact me: **[gcamarenaprog.com](mailto:gcamarenaprog@outlook.com)**
+- ![linkedin](https://www.readmecodegen.com/api/social-icon?name=linkedin&size=16) Reach me: **[linkedin.com](https://www.linkedin.com/in/guillermo-camarena-57a25b134)**
+
 
 ##### MY PHRASE
  > "We live a great novel, in a great theater, put on by intelligent people who like to play puppets." - Guillermo Camarena
