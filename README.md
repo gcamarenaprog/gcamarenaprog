@@ -13,8 +13,6 @@
 
 <p align="center">When I'm not coding, I'm a Fortean researcher and write articles about my research on my website https://bibliotecaenigmas.com 👽🛸</p>
 
-<p align="center">By the way, if you want to know more about me, you can visit my personal website: https://gcamarenaprog.com 🧑🏻‍💻👾</p>
-
 <p align="center">A phrase to describe me?</p>
 <p align="center">Willpower, light, and strength 🙏🏻⚡👊🏻</p>
 
@@ -34,7 +32,6 @@
 - 🎶 Music fact: **I love the alternative rock music and my favorite band is ZOÉ**
 - ♍ Zodiac sign fact: **My zodiac sign is Virgo**
 - 😀 A phrase to describe me? **Will, light, and strength**🙏🏻⚡👊🏻
-- 👾 You can visit my personal site: **[gcamarenaprog.com](https://gcamarenaprog.com)**
 - 👽 You can visit my fortean site: **[bibliotecaenigmas.com](https://bibliotecaenigmas.com)**
 - 📧 Contact me: **[gcamarenaprog.com](mailto:gcamarenaprog@outlook.com)**
 - ![linkedin](https://www.readmecodegen.com/api/social-icon?name=linkedin&size=16) Reach me: **[linkedin.com](https://www.linkedin.com/in/guillermo-camarena-57a25b134)**
