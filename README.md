@@ -33,7 +33,7 @@
 - ♍ Zodiac sign fact: **My zodiac sign is Virgo**
 - 😀 A phrase to describe me? **Will, light, and strength**🙏🏻⚡👊🏻
 - 👽 You can visit my fortean site: **[bibliotecaenigmas.com](https://bibliotecaenigmas.com)**
-- 📧 Contact me: **[gcamarenaprog.com](mailto:gcamarenaprog@outlook.com)**
+- 📧 Contact me: **[gcamarenaprog@outlook.com](mailto:gcamarenaprog@outlook.com)**
 - ![linkedin](https://www.readmecodegen.com/api/social-icon?name=linkedin&size=16) Reach me: **[linkedin.com](https://www.linkedin.com/in/guillermo-camarena-57a25b134)**
 
 
